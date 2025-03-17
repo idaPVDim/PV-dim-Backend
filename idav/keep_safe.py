@@ -1,0 +1,1 @@
+MAIL_PASS = "humbu1709@"
